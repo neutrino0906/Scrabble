@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405210769162",
+    "project_id": "makeaword-dfac0",
+    "storage_bucket": "makeaword-dfac0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405210769162:android:376378912b1697772f7cf3",
+        "android_client_info": {
+          "package_name": "com.example.make_a_word"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkiLy2QhBPDUjwrSXlWbV4zNHBhf89iuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
